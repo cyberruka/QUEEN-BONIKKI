@@ -1,7 +1,7 @@
 {
-  "name": "QUEEN-ELISA-MD",
-  "version": "3.9.5",
-  "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
+  "name": "QUEEN-BONIKKI",
+  "version": "1.0.0",
+  "description": "Queen Bonikki Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
   "type": "commonjs",
   "scripts": {
     "start": "node --max_old_space_size=8192 lib/runner/index.js"
@@ -13,9 +13,9 @@
     "baileys-md",
     "bot-md",
     "multi-device",
-    "dark-maker-ofc"
+    "cyber-team-ofc"
   ],
-  "author": "MR-NIMA",
+  "author": "MR-RUKA",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
@@ -89,10 +89,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DarkMakerofc/QUEEN-ELISA-MD.git",
+  "repository": "git+https://github.com/cyberruka/QUEEN-BONIKKI.git",
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/issues"
+    "url": "https://github.com/cyberruka/QUEEN-BONIKKI/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/#readme",
+  "homepage": "https://github.com/cyberruka/QUEEN-BONIKKI/#readme",
   "main": "index.js"
 }
