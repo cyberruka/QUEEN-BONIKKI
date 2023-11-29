@@ -6,11 +6,11 @@
 
 
 
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
+WHATSAPP BOT BY MR RUKA AND DEXTER ( CYBER TEAM OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 94767533889
 SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
+YOUTUBE - https://youtube.com/@cyber_amda
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
@@ -20,10 +20,9 @@ Queen Elisa Now Stable Version is 3.8.5
 Do you have Any Problem About Bot Join Supoort Group
 
 Thanks For All Helpers
-@Thashi - For Voice
-@Thinura - For Helps
-@RaviduManoj - For Helps 
-@slrealtech - For Helps 
+@Hiru - For Voice
+@rukshan - For owner help
+@dexter - for owner help
 
 @adiwajshing - For Web Api
 */
