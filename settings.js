@@ -1,12 +1,7 @@
-/*
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
-
 WHATSAPP BOT BY MR RUKA AND DEXTER ( CYBER TEAM OFC )
 
 WHATSAPP - 94767533889
-SUPPORT GROUP - https://t.me/queenelisasupport
+SUPPORT GROUP - https://chat.whatsapp.com/KFKOY7hX7oE6KJOlDrvRpO
 YOUTUBE - https://youtube.com/@cyber_amda
 
 
