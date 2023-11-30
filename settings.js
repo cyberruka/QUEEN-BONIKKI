@@ -1,5 +1,7 @@
-*/ Qᴜᴇᴇɴ ʙᴏɴɪᴋᴋɪ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
-	WHATSAPP BOT BY MR RUKA AND DEXTER ( CYBER TEAM OFC )
+*/ 
+𝗤𝗨𝗘𝗘𝗡 𝗕𝗢𝗡𝗜𝗞𝗞𝗜 𝗠𝗗
+	
+WHATSAPP BOT BY MR RUKA AND DEXTER ( CYBER TEAM OFC )
 
 WHATSAPP - 94767533889
 SUPPORT GROUP - https://chat.whatsapp.com/KFKOY7hX7oE6KJOlDrvRpO
