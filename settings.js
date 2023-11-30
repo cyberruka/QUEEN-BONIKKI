@@ -1,4 +1,4 @@
-*/ 
+/*
 𝗤𝗨𝗘𝗘𝗡 𝗕𝗢𝗡𝗜𝗞𝗞𝗜 𝗠𝗗
 	
 WHATSAPP BOT BY MR RUKA AND DEXTER ( CYBER TEAM OFC )
